@@ -1,27 +1,33 @@
-# AngularTestLogin
+# Login and Register Page
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+This is a project to create a Login and register application using Angular,
 
-## Development server
+## Installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Use the 'npm' to start the project
 
-## Code scaffolding
+run
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```bash
+yarn
+```
 
-## Build
+## Usage
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To run the unit test you must use the command below in your terminal
 
-## Running unit tests
+```bash
+npm run start
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Tech involved 💾
 
-## Running end-to-end tests
+- Angular 12
+- Typescript
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Contributing
 
-## Further help
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Please make sure to update tests as appropriate.
